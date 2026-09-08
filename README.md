@@ -12,7 +12,7 @@
   <b>A comprehensive techno-economic design and thermodynamic feasibility study for an off-grid, net-positive green data center in Chabahar, Iran.</b>
 </p>
 
-[View Full Report (PDF)](./report/Renewable_Energy.pdf) 
+[View Full Report (PDF)](./Renewable_Energy.pdf) 
 
 </div>
 
